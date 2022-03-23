@@ -10,4 +10,4 @@ Funtionality
 - delete saved quotation
 - back to add quotation page
 
-all functions are woring fine
+all functions are working fine
