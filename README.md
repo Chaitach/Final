@@ -10,4 +10,5 @@ Funtionality
 - delete saved quotation
 - back to add quotation page
 
-all functions are working fine
+The deployment could show the home page but, it error when get into the function page 
+All functions are working fine
